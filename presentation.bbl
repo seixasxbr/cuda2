@@ -5,25 +5,4 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[Costa e Oliveira 2020]{costa2020ciencia}
-\abntrefinfo{Costa e Oliveira}{COSTA; OLIVEIRA}{2020}
-{COSTA, M. E.~O.; OLIVEIRA, D.~A. Ci{\^e}ncia da informa{\c{c}}{\~a}o e
-  bibliometria: mapeamento da produ{\c{c}}{\~a}o cient{\'\i}fica em
-  peri{\'o}dicos brasileiros na tem{\'a}tica educa{\c{c}}{\~a}o a
-  dist{\^a}ncia.
-\emph{BIBLOS}, v.~34, n.~1, p. 19--44, 2020.}
-
-\bibitem[Maricato 2010]{maricato2010dinamica}
-\abntrefinfo{Maricato}{MARICATO}{2010}
-{MARICATO, J. d.~M.
-\emph{Din{\^a}mica das rela{\c{c}}{\~o}es entre Ci{\^e}ncia e Tecnologia:
-  estudo Bibliom{\'e}trico e Cientom{\'e}trico de m{\'u}ltiplos indicadores de
-  artigos e patentes em biodiesel}.
-Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2010.}
-
-\bibitem[Pritchard et al. 1969]{pritchard1969statistical}
-\abntrefinfo{Pritchard et al.}{PRITCHARD et al.}{1969}
-{PRITCHARD, A. et al. Statistical bibliography or bibliometrics.
-\emph{Journal of documentation}, New York, v.~25, n.~4, p. 348--349, 1969.}
-
 \end{thebibliography}

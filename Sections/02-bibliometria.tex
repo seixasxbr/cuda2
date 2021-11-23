@@ -1,49 +1,4 @@
 %*----------- SLIDE -------------------------------------------------------------
-\begin{frame}[t]{Melhoria na busca de artigos}
-    \framesubtitle{Existe algum método eficiente?}
-    %\transboxin[duration=1,direction=30]
-    A biblioteconomia.
-
-    \begin{figure}
-        \includegraphics[trim = 0 0 0 0, clip, width=0.6\textwidth]{biblioeconomia.png}
-        %\caption{.}
-    \end{figure}
-%*----------- notes
-    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
-\end{frame}
-%-
-%*----------- SLIDE -------------------------------------------------------------
-\begin{frame}[t]{Bibliometria}
-    \begin{itemize}
-        \item É um campo da biblioteconomia e da ciência da informação.
-        \item Aplica métodos estatísticos e matemáticos para analisar e construir indicadores sobre a dinâmica e evolução da informação científica e tecnológica.
-        \item Medir o impacto das publicações e dos serviços de disseminação da informação.
-        \item Identificar autores e instituições mais produtivas.
-        \item Todos os estudos que tentam quantificar os processos de comunicação escrita. \cite{pritchard1969statistical}
-        \item Avaliar a produção científica. \cite{costa2020ciencia}
-        \item Estudar relações entre a ciência e a tecnologia. \cite{maricato2010dinamica}
-    \end{itemize}
-
-    \begin{figure}
-        \includegraphics[trim = 0 0 0 0, clip, width=0.7\textwidth]{books-banner.jpeg}
-        %\caption{.}
-    \end{figure}
-   
-    % \begin{columns}[t]
-    %     \column{.45\textwidth}
-    %         detalhar sistemas em subconjuntos\\
-    %         listar possíveis modos de falhas\\
-    %         analisar cada modo de falha, juntamente com suas possíveis causas e sintomas
-    %     \column{.45\textwidth}
-    %         estimar os efeitos de cada modo de falhas\\
-    %         estimar a criticidade de cada efeito\\
-    %         identificar ações para minimizar falhas
-    % \end{columns}
-%*----------- notes
-    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
-\end{frame}
-%-
-%*----------- SLIDE -------------------------------------------------------------
 \begin{frame}[t]{Lei de Moore}
     %\framesubtitle{Lei de Bradford}
     % \begin{figure}
@@ -70,6 +25,74 @@
     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
 % %*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[t]{Lei de Moore}
+    \begin{columns}
+        \column{.6\textwidth}
+        \begin{figure}
+            \centering
+            \textbf{Evolução dos Microprocessadores}\par\medskip
+            \includegraphics[trim = 0 20 0 0, clip, width=1
+            \textwidth]{trends.jpg}
+            %\caption{.}
+        \end{figure}
+        \column{.4\textwidth}
+        \itemize
+        \item O número de transistores por chip cresceu em escala logarítimica
+        \item O aumento no número de transistores parou de refletir no aumento da performance
+        \item O consumo energético se tornou muito alto
+    \end{columns}
+    
+        %\column{.01\textwidth}
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+% %*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[t]{Programação em paralelo}
+    \framesubtitle{Porquê usar GPUs?}
+    \begin{columns}
+        \column{.7\textwidth}
+        \begin{figure}
+            \centering
+            \textbf{Performance das GPUs vs CPUs em GFLOPS/s}\par\medskip
+            \includegraphics[trim = 80 0 150 130, clip, width=.9
+            \textwidth]{gpuvccpu.png}
+        \end{figure}
+        \column{.3\textwidth}
+        \itemize
+        \item Poder computacional muito superior das GPUs
+        \item Reduzir o tempo de solução de um problema
+        \item Resolver problemas mais complexos
+    \end{columns}
+        
+        %\column{.01\textwidth}
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+% %*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[t]{O que é CUDA?}
+    \begin{columns}
+        \column{.02\textwidth}
+        \column{.48\textwidth}
+            % \vspace{.4cm}
+            \Large
+            \begin{itemize}
+                \item É um modelo de programação em paralelo que permite o uso da GPU
+                \item É basicamente C/C++ com algumas extensões
+                \item Pode ser usado em outras linguagens como Fortran e Python 
+            \end{itemize}
+        \column{.48\textwidth}
+            \begin{figure}
+                \includegraphics[trim = 180 0 150 0, clip, width=.8
+                \textwidth]{2017-04-12-nvidia-gpu.jpeg}
+                %\caption{.}
+            \end{figure}  
+        \column{.02\textwidth}      
+    \end{columns}
+        %\column{.01\textwidth}
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+% %*----------- SLIDE -------------------------------------------------------------
 \begin{frame}[t]{Aplicações}
     \begin{columns}
         \column{.02\textwidth}
@@ -84,10 +107,11 @@
                 \item Química computacional
                 \item Ordenação
                 \item Inteligência computacional
+                \item Deep learning
             \end{itemize}
         \column{.48\textwidth}
             \begin{figure}
-                \includegraphics[trim = 600 0 0 0, clip, width=.8
+                \includegraphics[trim = 600 0 0 0, clip, width=.85
                 \textwidth]{object-detection-illustration.png}
                 %\caption{.}
             \end{figure}  
@@ -97,17 +121,8 @@
 %*----------- notes
     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
-% %*----------- SLIDE -------------------------------------------------------------
-\begin{frame}[t]{Lei de Moore}
-    \begin{figure}
-        \includegraphics[trim = 0 20 0 0, clip, width=.7
-        \textwidth]{trends.jpg}
-        %\caption{.}
-    \end{figure}
-        %\column{.01\textwidth}
-%*----------- notes
-    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
-\end{frame}
+
+
 % %-
 % %*----------- SLIDE -------------------------------------------------------------
 % \begin{frame}[t]{As principais leis bibliométricas}
@@ -286,37 +301,22 @@
     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
 % %*----------- SLIDE -------------------------------------------------------------
-% \begin{frame}[t]{Kernel Mínimo}
-%     % \framesubtitle{Cooperação em Thread Blocks} 
-%     \Large{
-%     \begin{shaded}
-%         \underscore \underscore \underscore global \underscore \underscore \underscore void minimal( int* a)\\
-%         \{\\
-%         \;\;\;\; int idx = blockDim.x * blockIdx.x + threadIdx.x\\
-%         \;\;\;\; a[idx] = 13\\
-%         \} \\
-
-%     \end{shaded}
-%     }
-    
-%     % \begin{figure}
-%     %     \includegraphics [trim = 0 0 0 0, clip, width=0.5\textwidth]{MEMORYY.png}
-%     %     %\caption{.}
-%     % \end{figure}
-% %*----------- notes
-%     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
-% \end{frame}
-% %*----------- SLIDE -------------------------------------------------------------
-\begin{frame}[t]{Alocação de Memória}
+\begin{frame}[t]{Kernel Mínimo}
     % \framesubtitle{Cooperação em Thread Blocks} 
     \Large{
     \begin{shaded}
-        \itemize
-        \item cudaMalloc(void *pointer, size\textunderscore t nbytes)\\
-        \item cudaMenset(void *pointer, int value, size\textunderscore t count)\\
-        \item cudaFree(void* pointer)
 
+        \textunderscore \textunderscore  global\textunderscore \textunderscore void mykernel(...)\{\\
+        \}
+        % \{\\
+        % \;\;\;\; int idx = blockDim.x * blockIdx.x + threadIdx.x\\
+        % \;\;\;\; a[idx] = 13\\
+        % \} \\
     \end{shaded}
+    }
+    \Large{
+    A keyword \textcolor{red}{\textunderscore \textunderscore  global\textunderscore \textunderscore} indica uma função que é executada no device.\\ %e é chamada pelo host.\\
+    O compilador nvcc separa o código em componentes de host e componentes de device. Os componentes de device são compilados com o nvcc e os componentes de host por compiladores padrão como gcc.
     }
     
     % \begin{figure}
@@ -326,11 +326,32 @@
 %*----------- notes
     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
-
 % %*----------- SLIDE -------------------------------------------------------------
-\begin{frame}[t]{Programação em paralelo}
-    \framesubtitle{Porquê usar?}
-        %\column{.01\textwidth}
+\begin{frame}[t]{Alocação de Memória}
+    % \framesubtitle{Cooperação em Thread Blocks} 
+    \Large{
+    \begin{shaded}
+        \itemize
+        \item cudaMalloc() $\rightarrow$ Aloca espaço para cópias do device\\
+        \item cudaMemcpy() $\rightarrow$ Copia entradas do host pro device ou do device pro host\\
+        \item cudaFree() $\rightarrow$ Limpa memória alocada?\\
+        \item cudaMenset() $\rightarrow$ ?
+    % \end{shaded}
+    %     $\rightarrow$ Copia entradas para o device\\
+    % \begin{shaded}
+        % \itemize
+        % \item cudaMalloc(void *pointer, size\textunderscore t nbytes)\\
+        % \item cudaMenset(void *pointer, int value, size\textunderscore t count)\\
+        % \item cudaFree(void* pointer)
+        % \item cudaMemcpy()
+
+    \end{shaded}
+    }
+    
+    % \begin{figure}
+    %     \includegraphics [trim = 0 0 0 0, clip, width=0.5\textwidth]{MEMORYY.png}
+    %     %\caption{.}
+    % \end{figure}
 %*----------- notes
     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
