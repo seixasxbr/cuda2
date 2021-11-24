@@ -445,8 +445,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /home/seixas/Documents/cuda2/presentation.aux
 INPUT /home/seixas/Documents/cuda2/presentation.aux
-INPUT /home/seixas/Documents/cuda2/bu.aux
-INPUT /home/seixas/Documents/cuda2/bu.aux
 OUTPUT /home/seixas/Documents/cuda2/presentation.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -575,6 +573,8 @@ INPUT /home/seixas/Documents/cuda2/Template/logosenaicimatecnegativo.png
 INPUT /home/seixas/Documents/cuda2/Media/pictures/gpuvccpu.png
 INPUT /home/seixas/Documents/cuda2/Media/pictures/gpuvccpu.png
 INPUT /home/seixas/Documents/cuda2/Media/pictures/gpuvccpu.png
+INPUT /home/seixas/Documents/cuda2/Template/bullet-blue.png
+INPUT /home/seixas/Documents/cuda2/Template/bullet-blue.png
 INPUT /home/seixas/Documents/cuda2/Template/bullet-blue.png
 INPUT /home/seixas/Documents/cuda2/Template/bullet-blue.png
 INPUT /home/seixas/Documents/cuda2/Template/bullet-blue.png
@@ -740,13 +740,6 @@ INPUT /home/seixas/Documents/cuda2/Sections/03-method.tex
 INPUT /home/seixas/Documents/cuda2/Sections/03-method.tex
 INPUT /home/seixas/Documents/cuda2/Sections/04-results.tex
 INPUT /home/seixas/Documents/cuda2/Sections/04-results.tex
-INPUT /home/seixas/Documents/cuda2/Sections/05-references.tex
-INPUT /home/seixas/Documents/cuda2/Sections/05-references.tex
-OUTPUT /home/seixas/Documents/cuda2/bu.aux
-INPUT /home/seixas/Documents/cuda2/presentation.bbl
-INPUT /home/seixas/Documents/cuda2/presentation.bbl
-INPUT /home/seixas/Documents/cuda2/Template/logosenaicimatecnegativo.png
-INPUT /home/seixas/Documents/cuda2/Template/logosenaicimatecnegativo.png
 INPUT /home/seixas/Documents/cuda2/Template/questionmark8.png
 INPUT /home/seixas/Documents/cuda2/Template/questionmark8.png
 INPUT /home/seixas/Documents/cuda2/Template/questionmark8.png
@@ -754,8 +747,6 @@ OUTPUT /home/seixas/Documents/cuda2/presentation.nav
 OUTPUT /home/seixas/Documents/cuda2/presentation.toc
 OUTPUT /home/seixas/Documents/cuda2/presentation.snm
 INPUT /home/seixas/Documents/cuda2/presentation.aux
-INPUT /home/seixas/Documents/cuda2/bu.aux
-INPUT /home/seixas/Documents/cuda2/bu.aux
 INPUT /home/seixas/Documents/cuda2/presentation.out
 INPUT /home/seixas/Documents/cuda2/presentation.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
