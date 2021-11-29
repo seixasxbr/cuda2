@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.1)  23 NOV 2021 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.10)  29 NOV 2021 10:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/seixas/Documents/cuda2/presentation.tex
-(/home/seixas/Documents/cuda2/presentation.tex
+**/home/senai/Documentos/cuda2/presentation.tex
+(/home/senai/Documentos/cuda2/presentation.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -515,7 +515,7 @@ Package: amsthm 2017/10/31 v2.20.4
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen277
 \beamer@dimb=\dimen278
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/home/seixas/Documents/cuda2/beamerthememhar-vell.sty (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/home/senai/Documentos/cuda2/beamerthememhar-vell.sty (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
@@ -730,7 +730,7 @@ Package: listings 2019/09/10 1.8c (Carsten Heinz)
 \ULC@box=\box89
 Package: ulem 2019/11/18
 \ULdepth=\dimen310
-) (/home/seixas/Documents/cuda2/tdclock.sty
+) (/home/senai/Documentos/cuda2/tdclock.sty
 Package: tdclock 2014/02/21 v2.5 clock accessory
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -1106,7 +1106,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count395
 \c@blind@pangramcount=\count396
 \c@blind@pangrammax=\count397
-) (/home/seixas/Documents/cuda2/presentation.aux)
+) (/home/senai/Documentos/cuda2/presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
@@ -1193,7 +1193,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 95.
 LaTeX Info: Redefining \pageref on input line 95.
 LaTeX Info: Redefining \nameref on input line 95.
- (/home/seixas/Documents/cuda2/presentation.out) (/home/seixas/Documents/cuda2/presentation.out)
+ (/home/senai/Documentos/cuda2/presentation.out) (/home/senai/Documentos/cuda2/presentation.out)
 \@outlinefile=\write8
 \openout8 = `presentation.out'.
 
@@ -1262,7 +1262,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 \c@lstlisting=\count405
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 95.
- (/home/seixas/Documents/cuda2/presentation.nav)
+ (/home/senai/Documentos/cuda2/presentation.nav)
 <Template/logosenaicimatecnegativo.png, id=41, 632.1216pt x 138.7584pt>
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
@@ -1301,7 +1301,7 @@ LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/seixas/Documents/cuda2/Template/rosa-logo.png> </home/seixas/Documents/cuda2/Template/logosenaicimatec2020.png>] (/home/seixas/Documents/cuda2/Sections/01-introduction.tex) (/home/seixas/Documents/cuda2/Sections/02-bibliometria.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/Documentos/cuda2/Template/rosa-logo.png> </home/senai/Documentos/cuda2/Template/logosenaicimatec2020.png>] (/home/senai/Documentos/cuda2/Sections/01-introduction.tex) (/home/senai/Documentos/cuda2/Sections/02-bibliometria.tex
 <Media/pictures/moore.jpeg, id=78, 1284.8pt x 897.3525pt>
 File: Media/pictures/moore.jpeg Graphic file (type jpg)
 <use Media/pictures/moore.jpeg>
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [2
 
- </home/seixas/Documents/cuda2/Media/pictures/moore.jpeg> </home/seixas/Documents/cuda2/Template/logosenaicimatecnegativo.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/moore.jpeg> </home/senai/Documentos/cuda2/Template/logosenaicimatecnegativo.png>]
 <Media/pictures/trends.jpg, id=89, 853.1875pt x 565.11125pt>
 File: Media/pictures/trends.jpg Graphic file (type jpg)
 <use Media/pictures/trends.jpg>
@@ -1354,7 +1354,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [3
 
- </home/seixas/Documents/cuda2/Media/pictures/trends.jpg> </home/seixas/Documents/cuda2/Template/bullet-blue.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/trends.jpg> </home/senai/Documentos/cuda2/Template/bullet-blue.png>]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
 Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 51.
@@ -1389,7 +1389,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [5
 
- </home/seixas/Documents/cuda2/Media/pictures/gpuvccpu.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/gpuvccpu.png>]
 <Media/pictures/Cpu-gpu.png, id=121, 2171.11125pt x 819.06pt>
 File: Media/pictures/Cpu-gpu.png Graphic file (type png)
 <use Media/pictures/Cpu-gpu.png>
@@ -1401,7 +1401,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [6
 
- </home/seixas/Documents/cuda2/Media/pictures/Cpu-gpu.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/Cpu-gpu.png>]
 File: Template/bullet-blue.png Graphic file (type png)
 <use Template/bullet-blue.png>
 Package pdftex.def Info: Template/bullet-blue.png  used on input line 111.
@@ -1425,7 +1425,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [7
 
- </home/seixas/Documents/cuda2/Media/pictures/2017-04-12-nvidia-gpu.jpeg>]
+ </home/senai/Documentos/cuda2/Media/pictures/2017-04-12-nvidia-gpu.jpeg>]
 File: Template/bullet-blue.png Graphic file (type png)
 <use Template/bullet-blue.png>
 Package pdftex.def Info: Template/bullet-blue.png  used on input line 140.
@@ -1469,7 +1469,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [8
 
- </home/seixas/Documents/cuda2/Media/pictures/object-detection-illustration.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/object-detection-illustration.png>]
 <Media/pictures/g80.png, id=154, 642.4pt x 354.32375pt>
 File: Media/pictures/g80.png Graphic file (type png)
 <use Media/pictures/g80.png>
@@ -1485,7 +1485,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [9
 
- </home/seixas/Documents/cuda2/Media/pictures/g80.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/g80.png>]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
 Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 185.
@@ -1514,7 +1514,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [11
 
- </home/seixas/Documents/cuda2/Media/pictures/02-localmemory-removebg-preview.png> </home/seixas/Documents/cuda2/Media/pictures/02-sharedmemory-removebg-preview.png> </home/seixas/Documents/cuda2/Media/pictures/02-threadgrid.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/02-localmemory-removebg-preview.png> </home/senai/Documentos/cuda2/Media/pictures/02-sharedmemory-removebg-preview.png> </home/senai/Documentos/cuda2/Media/pictures/02-threadgrid.png>]
 <Media/pictures/threadblock.png, id=193, 765.5802pt x 448.5558pt>
 File: Media/pictures/threadblock.png Graphic file (type png)
 <use Media/pictures/threadblock.png>
@@ -1530,7 +1530,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [12
 
- </home/seixas/Documents/cuda2/Media/pictures/threadblock.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/threadblock.png>]
 <Media/pictures/het.png, id=205, 337.26pt x 181.67876pt>
 File: Media/pictures/het.png Graphic file (type png)
 <use Media/pictures/het.png>
@@ -1542,7 +1542,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [13
 
- </home/seixas/Documents/cuda2/Media/pictures/het.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/het.png>]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
 Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 246.
@@ -1581,7 +1581,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [15
 
- </home/seixas/Documents/cuda2/Media/pictures/MEMORYY.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/MEMORYY.png>]
 File: Media/pictures/02-sharedmemory-removebg-preview.png Graphic file (type png)
 <use Media/pictures/02-sharedmemory-removebg-preview.png>
 Package pdftex.def Info: Media/pictures/02-sharedmemory-removebg-preview.png  used on input line 300.
@@ -1629,7 +1629,7 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [17
 
- </home/seixas/Documents/cuda2/Media/pictures/maxresdefault-removebg-preview.png>]
+ </home/senai/Documentos/cuda2/Media/pictures/maxresdefault-removebg-preview.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 339.
 LaTeX Font Info:    No file OMScmss.fd. on input line 339.
 
@@ -1734,15 +1734,22 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [24
 
-]) (/home/seixas/Documents/cuda2/Sections/03-method.tex) (/home/seixas/Documents/cuda2/Sections/04-results.tex)
-<Template/questionmark8.png, id=308, 513.92pt x 513.92pt>
+]
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 472.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [25
+
+]) (/home/senai/Documentos/cuda2/Sections/03-method.tex) (/home/senai/Documentos/cuda2/Sections/04-results.tex)
+<Template/questionmark8.png, id=319, 513.92pt x 513.92pt>
 File: Template/questionmark8.png Graphic file (type png)
 <use Template/questionmark8.png>
 Package pdftex.def Info: Template/questionmark8.png  used on input line 155.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
- [25
+ [26
 
- </home/seixas/Documents/cuda2/Template/questionmark8.png>]
+ </home/senai/Documentos/cuda2/Template/questionmark8.png>]
 \tf@nav=\write9
 \openout9 = `presentation.nav'.
 
@@ -1754,7 +1761,7 @@ Package pdftex.def Info: Template/questionmark8.png  used on input line 155.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
- (/home/seixas/Documents/cuda2/presentation.aux)
+ (/home/senai/Documentos/cuda2/presentation.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
@@ -1769,18 +1776,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32337 strings out of 481239
- 668436 string characters out of 5920377
- 1008501 words of memory out of 5000000
- 46723 multiletter control sequences out of 15000+600000
- 548673 words of font info for 84 fonts, out of 8000000 for 9000
+ 32343 strings out of 481239
+ 668494 string characters out of 5920377
+ 1008499 words of memory out of 5000000
+ 46726 multiletter control sequences out of 15000+600000
+ 548842 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,17n,88p,1016b,1434s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on /home/seixas/Documents/cuda2/presentation.pdf (25 pages, 3545658 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on /home/senai/Documentos/cuda2/presentation.pdf (26 pages, 3556721 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
  414 words of extra memory for PDF output out of 10000 (max. 10000000)
 
